@@ -34,6 +34,8 @@ Computer vs Computer game mode , after each computer selects coins the dp table,
 
 ![image](https://github.com/user-attachments/assets/2d4ba7aa-77ef-44c9-bbcb-a9c6b2902ea4)
 
+ps : after a long discussion fight with الكينج اياد i got 20/30
+
 
 
 
