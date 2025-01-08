@@ -4,7 +4,9 @@
 There are 3 ways the user can enter coins to start the game
 
 -**Manual**
+
 -**Random**
+
 -**Loading A File**
 
 ![image](https://github.com/user-attachments/assets/8dae30d1-82d6-4fd6-ae04-eceb5ff54bcb)
