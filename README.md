@@ -3,12 +3,16 @@
 
 There are 3 ways the user can enter coins to start the game
 
+-**Manual**
+-**Random**
+-**Loading A File**
+
 ![image](https://github.com/user-attachments/assets/8dae30d1-82d6-4fd6-ae04-eceb5ff54bcb)
 
 
 
 
-After coin insertion , 2 game modes appear , 2 players (1v1) & Computer VS Computer Mode(The main idea of the project)
+After coin insertion **2 GAME MODE OPTIONS** appear : **1V1**   /   **ComputerVsComputer**
 
 ![image](https://github.com/user-attachments/assets/eaa583b4-045b-4124-ae20-14bf39c51a37)
 
@@ -30,7 +34,7 @@ End
 
 
 
-Computer vs Computer game mode , after each computer selects coins the dp table, chosen coins & result appear
+Computer vs Computer game mode: after each computer selects coins the **DP TABLE**, **CHOSEN COINS** & **RESULT** appear
 
 ![image](https://github.com/user-attachments/assets/2d4ba7aa-77ef-44c9-bbcb-a9c6b2902ea4)
 
