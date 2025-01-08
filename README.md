@@ -41,6 +41,12 @@ Computer vs Computer game mode: after each computer selects coins the **DP TABLE
 ![image](https://github.com/user-attachments/assets/2d4ba7aa-77ef-44c9-bbcb-a9c6b2902ea4)
 
 
+Demo 🎥 : 
+**https://github.com/user-attachments/assets/67c97f2d-8874-4aca-a29a-70ebe3962974**
+
+
+
+
 
 
 
